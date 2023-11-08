@@ -1,3 +1,3 @@
 # CIS
 
-JSON Templates for CIS
+Intune JSON Templates for CIS
